@@ -1,0 +1,104 @@
+ </style>
+</head>
+<body>
+    <div class="page-wrapper">
+        <!-- HEADER -->
+        <header class="top-header">
+            <div class="logo-block">
+                <span class="logo">FOREVER YOUNG</span>
+                <span class="badge">Президентство Программы Тайфун</span>
+            </div>
+            <a href="tel:+79972456478" class="phone">+7 997 245-64-78</a>
+        </header>
+
+        <!-- HERO -->
+        <section class="hero">
+            <h2>ВЫЕЗДНОЙ ЛАГЕРЬ ДЛЯ ВЗРОСЛЫХ</h2>
+            <p>Твоя возможность окунуться в беззаботное детство</p>
+            <button class="btn-primary">Хочу билет</button>
+        </section>
+
+        <!-- О ПРОЕКТЕ -->
+        <div class="section">
+            <h2 class="section-title">О ПРОЕКТЕ</h2>
+            <div class="about-grid">
+                <div class="about-text">
+                    Новый альбом — сложный, противостоящий твоей истому здоровью бытия ребенка. Это уникальная возможность полностью перегрузить себя с удовольствием, расширить круг ценностей и потребности.
+                </div>
+                <div class="about-img">
+                    <!-- место для картинки О ПРОЕКТЕ -->
+                    <img src="https://avatars.mds.yandex.net/get-altay/9709783/2a00000189c71f50e29b50801bb6bdc3c72b/L_height"
+                         alt="Участники лагеря на фоне заката у озера" 
+                         style="width:100%; height:auto; display:block;">
+                </div>
+            </div>
+        </div>
+
+        <!-- НАШИ ПРЕИМУЩЕСТВА -->
+        <div class="section">
+            <h2 class="section-title">НАШИ ПРЕИМУЩЕСТВА</h2>
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <div class="benefit-stat">98%</div>
+                    <div class="benefit-desc">подключенная глава (при проведении семинаров) в срок</div>
+                </div>
+                <div class="benefit-card">
+                    <div class="benefit-stat">10</div>
+                    <div class="benefit-desc">публикаций в СМИ о проекте Готовый</div>
+                </div>
+                <div class="benefit-card">
+                    <div class="benefit-stat">5 ЛЕТ</div>
+                    <div class="benefit-desc">от года к сфере организации мероприятий и смены на юре</div>
+                </div>
+                <div class="benefit-card">
+                    <div class="benefit-stat">35</div>
+                    <div class="benefit-desc">учёных, сила ужас пренебрежения мотивами</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ПОЧЕМУ СТОИТ ПРИЕХАТЬ -->
+        <div class="section">
+            <h2 class="section-title">ПОЧЕМУ СТОИТ ПРИЕХАТЬ НА СМЕНУ?</h2>
+            <div class="reasons-grid">
+                <div class="reason-item">
+                    <p>✦ Возможность стать новым личностям и неотложить</p>
+                </div>
+                <div class="reason-item">
+                    <p>✦ Популярность и атмосфера ведомственного теста</p>
+                </div>
+                <div class="reason-item">
+                    <p>✦ Сёлешься от дорожной суеты и ответственности</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- ПРОГРАММА СМЕНЫ: 1 ДЕНЬ -->
+        <div class="section">
+            <h2 class="section-title">ПРОГРАММА СМЕНЫ</h2>
+            <div class="day-card">
+                <div class="day-info">
+                    <h3>1 ДЕНЬ ></h3>
+                    <div class="day-time">16:00</div>
+                    <div class="day-desc">Общий сбор и монтаж конфигурации трансфер от ветра по реке острова Промыслово</div>
+                </div>
+                <div class="day-img">
+                    <!-- место для фото дня 1 -->
+                    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='250' viewBox='0 0 400 250'%3E%3Crect width='400' height='250' fill='%23b8d0e3'/%3E%3Ctext x='40' y='130' font-family='sans-serif' font-size='24' fill='%2320334d'%3E🌲 сбор у реки%3C/text%3E%3C/svg%3E"
+                         alt="Участники собираются у причала, река и лес" 
+                         style="width:100%; height:auto; border-radius:32px;">
+                </div>
+            </div>
+            <!-- можно добавить еще дни, но по макету только 1 день показан. оставлю как место для расширения -->
+        </div>
+
+        <!-- Подвал с контактами и "О нас" -->
+        <div class="footer-note">
+            <span>#DESIGN FOREVER YOUNG</span>
+            <span>О нас · Президентство Программы Тайфун</span>
+            <span>выездной лагерь</span>
+        </div>
+    </div>
+    <!-- все img имеют заполненные alt, можно заменить src позже -->
+</body>
+</html>
